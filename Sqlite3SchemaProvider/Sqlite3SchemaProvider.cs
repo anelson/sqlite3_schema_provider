@@ -1,3 +1,15 @@
+/*
+ * SQLite 3 Schema Provider
+ * 
+ * Initial version
+ * 
+ * by Adam Nelson (anelson@apocryph.org)
+ * 
+ * This software is hereby released into the public domain.  It comes without any warranty,
+ * including the implied warranties of merchantability and suitability to a particular purpose.
+ * 
+ * Depends upon SQLite.NET 1.0.26.3 or greater, and CodeSmith 3.2 or greater.
+ */
 using System;
 using System.Collections.Generic;
 using System.Text;
